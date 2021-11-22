@@ -1,11 +1,11 @@
 # NLP libraries, tools and resources
 List of libraries and resources for Natural language processing 
 
-• [Python](https://github.com/chiazor/Machine-learning-Data-science-event#Python)
+• [Python](https://github.com/chiazor/NLP_tools_and_resources#Python)
 
-• [Nodejs](https://github.com/chiazor/Machine-learning-Data-science-event#Nodejs)
+• [Nodejs](https://github.com/chiazor/NLP_tools_and_resources#Nodejs)
 
-• [Java](https://github.com/chiazor/Machine-learning-Data-science-event#Java)
+• [Java](https://github.com/chiazor/NLP_tools_and_resources#Java)
 
 
 ## Python 
